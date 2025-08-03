@@ -33,7 +33,7 @@ Faço alguns conteúdos no TikTok, onde compartilho minha jornada na programaç�
   </a>
 </p>
 
---- ### 🤖 Linguagens e Tecnologias
+🤖 Linguagens e Tecnologias
 
 <img
   align="left"
@@ -75,6 +75,15 @@ Faço alguns conteúdos no TikTok, onde compartilho minha jornada na programaç�
   width="30px"
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+
+<img
+  align="left"
+  alt="SQL SERVER"
+  title="SQLSERVER"
+  width="30px"
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
 />
 <br />
 <br />
