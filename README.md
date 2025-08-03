@@ -33,7 +33,8 @@ Faço alguns conteúdos no TikTok, onde compartilho minha jornada na programaç�
   </a>
 </p>
 
----🤖 Linguagens e Tecnologias
+---
+🤖 Linguagens e Tecnologias
 
 <img
   align="left"
@@ -88,7 +89,8 @@ Faço alguns conteúdos no TikTok, onde compartilho minha jornada na programaç�
 <br />
 <br />
 
----### 📊 Estatísticas
+---
+### 📊 Estatísticas
 
 <p>
   <img
