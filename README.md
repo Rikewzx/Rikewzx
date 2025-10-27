@@ -4,7 +4,7 @@
 
 Me chamo Jose Riquelme, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio na ETEC, com curso técnico em Eletrônica, e atualmente curso Análise e Desenvolvimento de Sistemas na Anhanguera.
 
-Sempre fui apaixonado por tecnologia, e quando descobri que podia usar minha criatividade para desenvolver aplicações web, encontrei o que realmente me motiva. Estou em constante evolução, praticando com projetos próprios, estudando HTML, CSS, JavaScript, React e SQL Server.  
+Sempre fui apaixonado por tecnologia, e quando descobri que podia usar minha criatividade para desenvolver aplicações web, encontrei o que realmente me motiva. Estou em constante evolução, praticando com projetos próprios, estudando HTML, CSS, JavaScript, Linux, React e SQL Server.  
 Faço alguns conteúdos no TikTok, onde compartilho minha jornada na programação e busco inspirar quem também está começando.
 
 <p align="left">
